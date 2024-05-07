@@ -1,17 +1,11 @@
 ### Hi there 👋
 
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos na plataforma Alura
+
 <!--
 **Feggz/Feggz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Alura
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: by email
-- 😄 Pronouns: Ele/Dele 
-- ⚡ Fun fact: eu gosto de jogar tempo fora
--->
  ![https://i.gifer.com/Pw0b.gif](link)
